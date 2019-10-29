@@ -14,6 +14,30 @@ TextureImporter:
   - first:
       213: -3193833930087533051
     second: Lunar Lander_0
+  - first:
+      213: 7208084416038489612
+    second: Lunar Lander_1
+  - first:
+      213: -7249014574046430043
+    second: Landing_Platfrom
+  - first:
+      213: -8075179088217067330
+    second: CheckPoint_off
+  - first:
+      213: -9086233047860310
+    second: Broke_part_01
+  - first:
+      213: 7396227782845430581
+    second: Broke_part_02
+  - first:
+      213: 1071991359383544326
+    second: Broke_part_03
+  - first:
+      213: -6209223590249236500
+    second: Broke_part_04
+  - first:
+      213: 5439704813219687962
+    second: Broke_part_05
   externalObjects: {}
   serializedVersion: 10
   mipmaps:
@@ -181,7 +205,7 @@ TextureImporter:
         width: 7
         height: 7
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -189,6 +213,174 @@ TextureImporter:
       bones: []
       spriteID: d47c5af7f3904ee45b2322262c7e7523
       internalID: -3193833930087533051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lunar Lander_1
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 16
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6db4db9f7711b434fbf1a1f77d10e1bd
+      internalID: 7208084416038489612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Landing_Platfrom
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 14
+        width: 41
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdfe824139969914099c5540924fbf36
+      internalID: -7249014574046430043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CheckPoint_off
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 14
+        width: 41
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2dd57f9875f82ae468016dd0a013d422
+      internalID: -8075179088217067330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broke_part_01
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 35
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03b4e6a89ad42d2469f1551a1a28f627
+      internalID: -9086233047860310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broke_part_02
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 35
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a56348d3d47fd04e98e3e9aa96a1ae3
+      internalID: 7396227782845430581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broke_part_03
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 35
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a8078dbc83acc646a5261986070d4b2
+      internalID: 1071991359383544326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broke_part_04
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 49
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b8c3f9d3acd0d44c8dfddb552b15d18
+      internalID: -6209223590249236500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broke_part_05
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 48
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 790361be884e1e6449beba929c4f38ad
+      internalID: 5439704813219687962
       vertices: []
       indices: 
       edges: []
