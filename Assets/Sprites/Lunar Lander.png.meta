@@ -38,6 +38,9 @@ TextureImporter:
   - first:
       213: 5439704813219687962
     second: Broke_part_05
+  - first:
+      213: -3305862050700175570
+    second: Health_sign
   externalObjects: {}
   serializedVersion: 10
   mipmaps:
@@ -381,6 +384,27 @@ TextureImporter:
       bones: []
       spriteID: 790361be884e1e6449beba929c4f38ad
       internalID: 5439704813219687962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Health_sign
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 55
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d56e2e5d4de0e9b458efd866f738c441
+      internalID: -3305862050700175570
       vertices: []
       indices: 
       edges: []
