@@ -63,7 +63,7 @@ public class player_collider : MonoBehaviour
 
         if (player.active) {
 
-            is_player_alive = false;
+            
             GameObject obj = (GameObject)Instantiate(broken, transform.position, transform.rotation);
             parts = obj.GetComponentsInChildren<Rigidbody2D>();
 
@@ -78,6 +78,7 @@ public class player_collider : MonoBehaviour
 
             hp = 100f;
             player.SetActive(false);
+            is_player_alive = false;
         }
     }
 

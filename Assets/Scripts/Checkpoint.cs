@@ -62,6 +62,7 @@ public class Checkpoint : MonoBehaviour
         player.transform.eulerAngles = new Vector3(0,0,0);
         rig.velocity = new Vector2(0,0);
 
+        
         script.is_player_alive = true;
         player.SetActive(true);
         lock1 = true;
